@@ -4,8 +4,7 @@
 
   <h1>Built with AI Studio</h2>
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
+  
+  <a href="h[ttps://aistudio.google.com/apps](https://aistudio.google.com/apps/271f0699-54ab-4ad7-b5b6-11e8cffac500?showPreview=true&showAssistant=true)"></a>
 
 </div>
